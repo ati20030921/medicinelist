@@ -6,6 +6,7 @@ import { RouterLink, RouterView } from 'vue-router'
   <header>
     <div class="wrapper">
       <HelloWorld />
+      <h1>HUH</h1>
 
       <nav class="navbar navbar-expand-sm bg-dark navbar-light">
         <div class="container-fluid">
