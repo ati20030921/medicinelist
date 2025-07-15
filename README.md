@@ -9,12 +9,8 @@ Ez a projekt egy gyógyszer-nyilvántartó rendszer, amely lehetővé teszi a gy
 - 💾 **Adatbázis**: MySQL vagy MariaDB
 
 ✨ **Fő funkciók**
-- 👤 Felhasználói regisztráció
 - 🔐 Felhasználói belépés (login)
 - 📋 Gyógyszerek listázása
-- ➕ Új gyógyszer felvitele
-- ✏️ Gyógyszer adatainak szerkesztése
-- 🗑️ Gyógyszer törlése
 
 🧑‍💻 **Fejlesztők**: *Jegenyés Bence, Daroczi Attila*  
 📧 **Kapcsolat**: *banfiattila134@gmail.com*
